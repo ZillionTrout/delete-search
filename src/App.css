@@ -45,3 +45,8 @@ div.product_card img {
 .form_container input {
   display: block;
 }
+
+button.delete {
+  border: 1px solid black;
+  border-radius: 15px;
+}
